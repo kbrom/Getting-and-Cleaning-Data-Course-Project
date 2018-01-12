@@ -1,4 +1,4 @@
-# Getting and Cleaning Data |  John Hopkins  Coursera <br />
+# Getting and Cleaning Data (John Hopkins  Coursera) <br />
 # Peer-graded Assignment: 
 By Kibrom Haftu  <br />
 This repository contains the following files:
