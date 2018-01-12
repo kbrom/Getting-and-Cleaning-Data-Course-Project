@@ -1,5 +1,5 @@
 # Getting and Cleaning Data ||  Coursera
-By Kibrom Haftu
+By Kibrom Haftu  <br />
 This repository contains the following files:
 
 ## README.md
