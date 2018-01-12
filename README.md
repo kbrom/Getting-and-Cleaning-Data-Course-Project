@@ -23,8 +23,7 @@ https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 ## README.md
 Which provides an overview of the data set and how it was created. 
 
-## Review criteria : 
-## Demonstration of work!
+## Review criteria : <br /> Demonstration of the Course Project!
 
  Solutions  | Project File | Link to File
 --- | --- | ---
