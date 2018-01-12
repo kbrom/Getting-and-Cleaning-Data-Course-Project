@@ -3,10 +3,6 @@
 By Kibrom Haftu  <br />
 This repository contains the following files:
 <br />
-
-
-## tidy_data.txt
- which contains A tidy data set.
  
  ## CodeBook.md
 The code book, which describes the variables, the data, and the transformations or work that <br /> performed to clean up the data.
