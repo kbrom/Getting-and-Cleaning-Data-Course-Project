@@ -33,4 +33,4 @@ Cookbook | CodeBook.md |  [Repository Link](https://github.com/kbrom/Getting-and
 README | ReadingItNow |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/README.md "README.md")
 Tidy Data Set |  Clean Data Set |  [The Data Set Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/tidyData.txt "tidyData.txt")
 
-  ## Github Repo | Repo |  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
+  ## Github Repository - to all files ---  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
