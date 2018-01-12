@@ -5,7 +5,7 @@ This repository contains the following files:
 <br />
  
  ## CodeBook.md
-The code book, which describes the variables, the data, and the transformations or work that <br /> performed to clean up the data.
+The code book describes the variables, the data, and the transformations or work that <br /> performed to clean up the data.
 
 run_analysis.R, the R script that was used to create the data set (see the Creating the data set section below)
 ## run_analysis.R
