@@ -23,7 +23,10 @@ https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 ## README.md
 Which provides an overview of the data set and how it was created. 
 
- Project File | File | Link to File
+## Review criteria : 
+## Demonstration of work!
+
+ Solutions  | Project File | Link to File
 --- | --- | ---
 Github Repo | Repo |  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/run_analysis.R "run_analysis.R")
