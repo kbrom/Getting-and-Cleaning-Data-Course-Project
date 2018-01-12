@@ -22,7 +22,7 @@ Each row contains, for a given subject and activity, 79 averaged signal measurem
 	- `STANDING`: subject was standing
 	- `LAYING`: subject was laying
 	
-### *Explanation of each file*
+ ### *Explanation of each file*
 features.txt: Names of the  features.
 
 activity_labels.txt: Names and IDs for each of the  activities.
