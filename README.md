@@ -24,7 +24,7 @@ https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 Which provides an overview of the data set and how it was created. 
 
 ## Review criteria : <br /> Demonstration of the Course Project!
-Github Repo | Repo |  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
+
 
 Solutions |Project File | Link to File
 --- | --- | ---
@@ -32,3 +32,5 @@ Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/
 Cookbook | CodeBook.md |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/README.md "README.md")
 Tidy Data Set |  Clean Data Set |  [The Data Set Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/tidyData.txt "tidyData.txt")
+
+Github Repo | Repo |  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
