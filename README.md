@@ -1,5 +1,5 @@
-# Getting and Cleaning Data |  Coursera <br />
-# Peer-graded Assignment: John Hopkins
+# Getting and Cleaning Data |  John Hopkins  Coursera <br />
+# Peer-graded Assignment: 
 By Kibrom Haftu  <br />
 This repository contains the following files:
 <br />
@@ -17,7 +17,7 @@ run_analysis.R, the R script that was used to create the data set (see the Creat
 It can be used to create the data set. It retrieves the source data set <br />  and transforms it to produce the final data set.
 ## Github Repo Link   
 <br />
-Please follow this link to go to the Github Repository <br />
+Please Click the link to go to the Github Repository <br />
 https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 
 ## README.md
