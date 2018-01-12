@@ -28,9 +28,9 @@ Which provides an overview of the data set and how it was created.
 
 Tasks |Project File | Link to File
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/run_analysis.R "run_analysis.R")
-Cookbook | CodeBook.md |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/CodeBook.md "CodeBook.md")
-README | README.md   |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/README.md "README.md")
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/run_analysis.R "run_analysis.R")
+Cookbook | CodeBook.md |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md "CodeBook.md")
+README | README.md   |  [Repository Link ](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/blob/master/README.md "README.md")
 
 
   ## Github Repository -> to ALL Files --->  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
