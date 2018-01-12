@@ -24,6 +24,7 @@ https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 Which provides an overview of the data set and how it was created. 
 
 ## Review criteria : <br /> Demonstration of the Course Project!
+Github Repo | Repo |  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
 
 Solutions |Project File | Link to File
 --- | --- | ---
