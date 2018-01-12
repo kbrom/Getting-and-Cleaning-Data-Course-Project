@@ -12,8 +12,7 @@ run_analysis.R, the R script that was used to create the data set (see the Creat
  This is the R script/code to perform the  analyses. <br />
 It can be used to create the data set. It retrieves the source data set <br />  and transforms it to produce the final data set.
 ## Github Repo Link   
-
-A Link to the Github Repository :<br />
+This a  Link to the Github Repository.<br />
 https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/
 
 ## README.md
