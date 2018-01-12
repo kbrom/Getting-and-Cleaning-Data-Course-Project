@@ -31,6 +31,6 @@ W |Project File | Link to File
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/run_analysis.R "run_analysis.R")
 Cookbook | CodeBook.md |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/CodeBook.md "CodeBook.md")
 README | README.md |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/README.md "README.md")
-Tidy Data Set |  Clean Data Set | tidyData.txt|  [The Data Set Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/tidyData.txt "tidyData.txt")
+Tidy Data Set |  Clean Data Set <br /> tidyData.txt|  [The Data Set Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/tidyData.txt "tidyData.txt")
 
   ## Github Repository - to all files ---  [Github Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/ "Please follow this link to go to Repo")
