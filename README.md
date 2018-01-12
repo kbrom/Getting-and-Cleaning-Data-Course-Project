@@ -26,7 +26,7 @@ Which provides an overview of the data set and how it was created.
 ## Review criteria : <br /> Demonstration of the Course Project!
 
 
-WORK |Project File | Link to File
+Tasks |Project File | Link to File
 --- | --- | ---
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/run_analysis.R "run_analysis.R")
 Cookbook | CodeBook.md |  [Repository Link](https://github.com/kbrom/Getting-and-Cleaning-Data-Course-Project/CodeBook.md "CodeBook.md")
